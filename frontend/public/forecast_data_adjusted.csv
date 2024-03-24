@@ -1,0 +1,25 @@
+Units Sold,EUR revenues,Product,Date,Retailer,Sales Method,DIMENSION3,HIERARCHY1,HIERARCHY2,HIERARCHY3,HIERARCHY4,HIERARCHY5,Waterfall-Component
+142,2120.47,Product A,2022-01,Retailer Y,Online,,Product A,City_5,State_1,Region_2,,Trend
+228,3878.37,Product A,2022-01,Retailer X,Online,,Product A,City_3,State_2,Region_1,,Trend
+412,6882.02,Product A,2022-03,Retailer Y,Offline,,Product A,City_2,State_1,Region_1,,Trend
+414,6214.64,Product A,2022-04,Retailer Y,Online,,Product A,City_1,State_3,Region_1,,Trend
+417,6295.07,Product A,2022-05,Retailer Y,Online,,Product A,City_5,State_1,Region_2,,Trend
+102,1751.08,Product A,2022-05,Retailer X,Offline,,Product A,City_3,State_3,Region_1,,Trend
+186,2520.65,Product A,2022-06,Retailer Y,Online,,Product A,City_1,State_3,Region_1,,Trend
+240,4098.54,Product A,2022-07,Retailer X,Online,,Product A,City_3,State_3,Region_1,,Trend
+122,2138.36,Product A,2022-08,Retailer Y,Online,,Product A,City_1,State_1,Region_2,,Trend
+87,1175.1,Product A,2022-09,Retailer X,Online,,Product A,City_1,State_1,Region_1,,Trend
+243,2463.6,Product A,2022-10,Retailer X,Offline,,Product A,City_4,State_1,Region_2,,Trend
+65,998.63,Product A,2022-11,Retailer X,Offline,,Product A,City_5,State_3,Region_1,,Trend
+51,539.95,Product A,2022-12,Retailer Y,Online,,Product A,City_4,State_2,Region_1,,Trend
+166,2493.18,Product A,2023-01,Retailer Y,Online,,Product A,City_3,State_3,Region_2,,Trend
+262,3257.88,Product A,2023-02,Retailer X,Offline,,Product A,City_5,State_2,Region_2,,Trend
+447,8673.01,Product A,2023-03,Retailer X,Online,,Product A,City_5,State_3,Region_2,,Trend
+447,7891.12,Product A,2023-04,Retailer X,Online,,Product A,City_5,State_2,Region_1,,Trend
+229,3682.81,Product A,2023-05,Retailer Y,Offline,,Product A,City_3,State_1,Region_2,,Trend
+81,1156.07,Product A,2023-06,Retailer Y,Online,,Product A,City_1,State_2,Region_1,,Trend
+237,3210.05,Product A,2023-07,Retailer X,Online,,Product A,City_3,State_1,Region_2,,Manual Adjustment
+144,2345.33,Product A,2023-08,Retailer Y,Online,,Product A,City_4,State_1,Region_2,,Seasonality
+474,7539.29,Product A,2023-09,Retailer X,Online,,Product A,City_4,State_3,Region_2,,Seasonality
+487,5481.8,Product A,2023-10,Retailer X,Online,,Product A,City_4,State_1,Region_1,,Manual Adjustment
+322,3825.69,Product A,2023-11,Retailer X,Online,,Product A,City_1,State_2,Region_2,,Manual Adjustment

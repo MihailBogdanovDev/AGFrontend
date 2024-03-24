@@ -1,0 +1,7 @@
+Date,Product,Units Sold,EUR revenues,Retailer,Sales Method,Product,City,State,Region,waterfall_component
+2023-01-01,Product A,100,1000,Retailer A,Online,Product A,Paris,Ile-de-France,Europe,trend
+2023-01-02,Product A,110,1100,Retailer B,Offline,Product A,Paris,Ile-de-France,Europe,seasonality
+2023-01-03,Product B,120,1200,Retailer A,Online,Product B,Lyon,Auvergne-Rhone-Alpes,Europe,manual adjustment
+2023-01-04,Product B,130,1300,Retailer B,Offline,Product B,Lyon,Auvergne-Rhone-Alpes,Europe,trend
+2023-05-01,Product A,150,1500,Retailer A,Online,Product A,Marseille,Provence-Alpes-Cote d'Azur,Europe,manual adjustment
+2023-05-02,Product A,160,1600,Retailer B,Offline,Product A,Marseille,Provence-Alpes-Cote d'Azur,Europe,trend

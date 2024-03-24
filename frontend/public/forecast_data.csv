@@ -1,0 +1,101 @@
+Units Sold,EUR revenues,Product,Date,Retailer,Sales Method,DIMENSION3,City,State,Region,HIERARCHY5,WATERFALL-COMPONENT
+419,1182.69,Product B,2022-11-10,Retailer 3,In-Store,Dimension C,City B,State X,Region 2,Hierarchy Placeholder,seasonality
+442,3956.15,Product A,2022-12-04,Retailer 1,Telephone,Dimension A,City A,State Z,Region 3,Hierarchy Placeholder,manual adjustment
+523,3284.44,Product C,2023-05-07,Retailer 2,Telephone,Dimension C,City C,State Z,Region 2,Hierarchy Placeholder,seasonality
+514,1182.07,Product A,2023-02-11,Retailer 1,Telephone,Dimension B,City B,State Y,Region 3,Hierarchy Placeholder,seasonality
+386,2265.55,Product C,2023-01-28,Retailer 3,Online,Dimension B,City A,State X,Region 3,Hierarchy Placeholder,seasonality
+785,1004.1,Product B,2023-06-25,Retailer 3,Telephone,Dimension B,City C,State Z,Region 1,Hierarchy Placeholder,manual adjustment
+982,1404.06,Product A,2023-06-05,Retailer 1,Telephone,Dimension B,City C,State Z,Region 3,Hierarchy Placeholder,trend
+563,2734.72,Product B,2023-04-11,Retailer 3,Telephone,Dimension B,City C,State Z,Region 1,Hierarchy Placeholder,manual adjustment
+812,4923.48,Product A,2023-03-14,Retailer 1,Telephone,Dimension A,City B,State Z,Region 1,Hierarchy Placeholder,manual adjustment
+429,1090.55,Product A,2023-10-15,Retailer 3,Telephone,Dimension A,City C,State Z,Region 1,Hierarchy Placeholder,trend
+394,4257.2,Product B,2023-07-02,Retailer 3,In-Store,Dimension C,City B,State X,Region 1,Hierarchy Placeholder,manual adjustment
+424,3393.47,Product C,2023-09-13,Retailer 2,Online,Dimension A,City A,State X,Region 2,Hierarchy Placeholder,trend
+679,3072.72,Product C,2023-07-10,Retailer 3,Telephone,Dimension C,City B,State X,Region 2,Hierarchy Placeholder,trend
+50,1734.53,Product C,2022-11-23,Retailer 3,Telephone,Dimension A,City A,State Y,Region 2,Hierarchy Placeholder,trend
+195,3169.32,Product C,2022-12-08,Retailer 2,In-Store,Dimension A,City B,State X,Region 1,Hierarchy Placeholder,seasonality
+147,4436.04,Product B,2023-02-09,Retailer 1,In-Store,Dimension B,City A,State Y,Region 1,Hierarchy Placeholder,manual adjustment
+264,3069.03,Product B,2023-05-25,Retailer 3,Online,Dimension B,City B,State Y,Region 2,Hierarchy Placeholder,seasonality
+479,3224.83,Product A,2023-10-18,Retailer 2,Telephone,Dimension B,City C,State Z,Region 1,Hierarchy Placeholder,manual adjustment
+86,1916.21,Product C,2023-02-20,Retailer 1,Online,Dimension C,City B,State X,Region 2,Hierarchy Placeholder,seasonality
+941,3675.39,Product B,2023-08-14,Retailer 1,Telephone,Dimension A,City B,State X,Region 3,Hierarchy Placeholder,seasonality
+904,1073.17,Product C,2023-06-12,Retailer 2,Telephone,Dimension B,City A,State X,Region 2,Hierarchy Placeholder,trend
+745,2196.95,Product C,2023-06-14,Retailer 3,Telephone,Dimension C,City A,State Z,Region 1,Hierarchy Placeholder,manual adjustment
+360,1080.55,Product B,2023-02-16,Retailer 3,In-Store,Dimension B,City B,State Z,Region 2,Hierarchy Placeholder,seasonality
+701,2844.27,Product A,2022-12-07,Retailer 2,In-Store,Dimension B,City B,State Z,Region 2,Hierarchy Placeholder,manual adjustment
+650,4557.77,Product A,2023-05-03,Retailer 2,In-Store,Dimension B,City C,State Z,Region 2,Hierarchy Placeholder,manual adjustment
+296,3092.17,Product C,2023-01-04,Retailer 2,In-Store,Dimension B,City C,State Y,Region 3,Hierarchy Placeholder,seasonality
+177,1307.16,Product B,2023-10-06,Retailer 1,Online,Dimension A,City B,State X,Region 1,Hierarchy Placeholder,seasonality
+409,3422.06,Product C,2023-10-16,Retailer 2,In-Store,Dimension B,City C,State X,Region 3,Hierarchy Placeholder,trend
+15,2491.91,Product C,2023-01-20,Retailer 2,Telephone,Dimension C,City C,State X,Region 1,Hierarchy Placeholder,seasonality
+933,3619.51,Product B,2023-03-10,Retailer 2,Telephone,Dimension A,City A,State Z,Region 3,Hierarchy Placeholder,manual adjustment
+116,1384.22,Product A,2023-10-30,Retailer 3,Telephone,Dimension A,City C,State X,Region 2,Hierarchy Placeholder,manual adjustment
+13,1097.07,Product C,2023-04-08,Retailer 1,Online,Dimension C,City C,State Z,Region 2,Hierarchy Placeholder,manual adjustment
+34,2812.72,Product C,2023-02-26,Retailer 2,Online,Dimension A,City A,State Z,Region 3,Hierarchy Placeholder,manual adjustment
+885,3969.75,Product A,2023-05-25,Retailer 1,Online,Dimension C,City B,State X,Region 2,Hierarchy Placeholder,manual adjustment
+661,4838.44,Product C,2023-04-08,Retailer 2,In-Store,Dimension A,City C,State Y,Region 3,Hierarchy Placeholder,manual adjustment
+797,3791.7,Product A,2023-08-06,Retailer 2,In-Store,Dimension A,City C,State X,Region 2,Hierarchy Placeholder,manual adjustment
+721,1174.89,Product A,2023-03-02,Retailer 1,Telephone,Dimension C,City B,State Z,Region 1,Hierarchy Placeholder,seasonality
+490,2823.04,Product B,2023-06-11,Retailer 1,Telephone,Dimension B,City A,State Z,Region 1,Hierarchy Placeholder,trend
+100,4674.63,Product C,2023-09-24,Retailer 2,Online,Dimension C,City C,State Y,Region 2,Hierarchy Placeholder,manual adjustment
+249,1670.89,Product B,2023-04-13,Retailer 1,In-Store,Dimension B,City C,State X,Region 2,Hierarchy Placeholder,trend
+347,4039.98,Product C,2023-01-27,Retailer 2,In-Store,Dimension C,City B,State Y,Region 2,Hierarchy Placeholder,seasonality
+190,4924.11,Product B,2023-10-25,Retailer 1,Telephone,Dimension C,City C,State X,Region 2,Hierarchy Placeholder,seasonality
+377,3910.9,Product B,2023-05-16,Retailer 2,Telephone,Dimension C,City C,State Y,Region 2,Hierarchy Placeholder,trend
+720,4102.2,Product C,2023-04-27,Retailer 1,Telephone,Dimension A,City A,State X,Region 3,Hierarchy Placeholder,seasonality
+15,1098.69,Product B,2023-05-30,Retailer 1,Telephone,Dimension B,City B,State Z,Region 2,Hierarchy Placeholder,seasonality
+955,4662.57,Product B,2023-04-09,Retailer 2,Online,Dimension B,City A,State Z,Region 1,Hierarchy Placeholder,trend
+420,4818.16,Product A,2022-12-31,Retailer 3,Online,Dimension B,City C,State Z,Region 2,Hierarchy Placeholder,seasonality
+436,3811.02,Product C,2023-03-30,Retailer 2,Online,Dimension B,City C,State X,Region 2,Hierarchy Placeholder,trend
+627,4579.7,Product A,2023-04-01,Retailer 3,Online,Dimension C,City A,State X,Region 2,Hierarchy Placeholder,manual adjustment
+114,3043.95,Product B,2022-11-20,Retailer 3,Online,Dimension C,City B,State Z,Region 2,Hierarchy Placeholder,seasonality
+646,1204.96,Product A,2023-07-06,Retailer 2,Telephone,Dimension C,City A,State Z,Region 2,Hierarchy Placeholder,seasonality
+411,2269.61,Product C,2023-03-06,Retailer 2,Telephone,Dimension C,City A,State Y,Region 2,Hierarchy Placeholder,trend
+227,4714.17,Product C,2023-09-08,Retailer 3,Telephone,Dimension B,City A,State Y,Region 3,Hierarchy Placeholder,manual adjustment
+534,2836.69,Product A,2023-03-30,Retailer 1,Online,Dimension A,City B,State X,Region 3,Hierarchy Placeholder,seasonality
+936,1022.89,Product C,2023-03-21,Retailer 2,Online,Dimension B,City B,State X,Region 1,Hierarchy Placeholder,manual adjustment
+393,1283.76,Product C,2023-06-25,Retailer 2,Telephone,Dimension C,City C,State Z,Region 2,Hierarchy Placeholder,trend
+932,2410.85,Product C,2023-03-21,Retailer 1,In-Store,Dimension C,City C,State Z,Region 2,Hierarchy Placeholder,trend
+96,1237.92,Product B,2022-11-29,Retailer 3,In-Store,Dimension B,City B,State Y,Region 1,Hierarchy Placeholder,seasonality
+949,3884.95,Product B,2022-12-22,Retailer 3,In-Store,Dimension C,City A,State Z,Region 1,Hierarchy Placeholder,trend
+829,3756.15,Product B,2023-05-22,Retailer 2,In-Store,Dimension B,City B,State X,Region 2,Hierarchy Placeholder,seasonality
+202,4921.39,Product A,2023-09-03,Retailer 2,In-Store,Dimension B,City A,State X,Region 3,Hierarchy Placeholder,seasonality
+338,1873.38,Product B,2023-07-25,Retailer 3,Online,Dimension B,City C,State X,Region 1,Hierarchy Placeholder,manual adjustment
+893,4598.87,Product C,2023-08-30,Retailer 2,Online,Dimension B,City B,State Z,Region 3,Hierarchy Placeholder,seasonality
+776,3113.27,Product A,2023-09-04,Retailer 2,Online,Dimension B,City A,State X,Region 3,Hierarchy Placeholder,trend
+131,3745.2,Product B,2023-01-25,Retailer 3,Online,Dimension C,City C,State X,Region 1,Hierarchy Placeholder,trend
+67,1141.76,Product A,2023-02-08,Retailer 2,In-Store,Dimension C,City A,State Y,Region 1,Hierarchy Placeholder,manual adjustment
+611,4484.49,Product B,2023-03-25,Retailer 2,Telephone,Dimension B,City A,State Y,Region 2,Hierarchy Placeholder,trend
+358,1916.92,Product A,2023-02-12,Retailer 1,Online,Dimension A,City B,State Y,Region 2,Hierarchy Placeholder,seasonality
+876,1365.15,Product A,2023-01-03,Retailer 3,In-Store,Dimension A,City B,State Y,Region 2,Hierarchy Placeholder,seasonality
+842,3769.75,Product C,2023-09-08,Retailer 1,Online,Dimension A,City C,State Y,Region 2,Hierarchy Placeholder,seasonality
+246,4194.58,Product B,2023-08-03,Retailer 2,Online,Dimension C,City A,State Z,Region 1,Hierarchy Placeholder,seasonality
+563,3845.61,Product C,2022-11-22,Retailer 2,In-Store,Dimension B,City A,State Y,Region 1,Hierarchy Placeholder,seasonality
+96,3741.03,Product C,2023-01-09,Retailer 2,In-Store,Dimension A,City A,State X,Region 3,Hierarchy Placeholder,seasonality
+404,4293.98,Product B,2023-03-11,Retailer 2,Online,Dimension C,City C,State X,Region 1,Hierarchy Placeholder,manual adjustment
+866,1876.62,Product C,2023-01-25,Retailer 2,Online,Dimension B,City A,State Z,Region 2,Hierarchy Placeholder,trend
+958,1273.35,Product B,2023-01-25,Retailer 1,In-Store,Dimension C,City B,State X,Region 2,Hierarchy Placeholder,trend
+625,4476.89,Product C,2023-04-27,Retailer 1,Online,Dimension A,City C,State X,Region 1,Hierarchy Placeholder,trend
+868,3535.62,Product B,2023-09-25,Retailer 1,In-Store,Dimension B,City B,State Z,Region 3,Hierarchy Placeholder,manual adjustment
+995,3951.56,Product A,2023-09-06,Retailer 1,Online,Dimension B,City C,State Z,Region 3,Hierarchy Placeholder,seasonality
+637,3699.64,Product A,2022-11-29,Retailer 1,In-Store,Dimension A,City B,State Y,Region 3,Hierarchy Placeholder,seasonality
+137,1426.33,Product B,2023-10-25,Retailer 2,Telephone,Dimension A,City B,State Z,Region 1,Hierarchy Placeholder,seasonality
+812,3216.26,Product C,2023-08-31,Retailer 3,Online,Dimension B,City B,State Z,Region 1,Hierarchy Placeholder,manual adjustment
+623,4352.12,Product A,2023-03-19,Retailer 3,Online,Dimension A,City C,State Z,Region 1,Hierarchy Placeholder,trend
+873,1891.07,Product B,2022-11-04,Retailer 1,Telephone,Dimension B,City C,State Z,Region 2,Hierarchy Placeholder,trend
+826,1763.06,Product B,2023-03-02,Retailer 3,Online,Dimension B,City A,State Y,Region 1,Hierarchy Placeholder,manual adjustment
+185,3682.74,Product B,2023-07-20,Retailer 2,In-Store,Dimension C,City B,State Y,Region 1,Hierarchy Placeholder,manual adjustment
+451,2539.51,Product A,2022-11-07,Retailer 2,Telephone,Dimension B,City A,State Z,Region 2,Hierarchy Placeholder,manual adjustment
+538,3374.38,Product C,2023-03-08,Retailer 1,In-Store,Dimension A,City C,State Y,Region 3,Hierarchy Placeholder,seasonality
+908,1184.61,Product B,2023-02-10,Retailer 3,In-Store,Dimension A,City A,State X,Region 3,Hierarchy Placeholder,manual adjustment
+322,2206.19,Product A,2022-10-31,Retailer 1,Telephone,Dimension C,City B,State Y,Region 1,Hierarchy Placeholder,trend
+648,1962.64,Product A,2023-05-25,Retailer 2,In-Store,Dimension A,City C,State Z,Region 2,Hierarchy Placeholder,seasonality
+924,4406.63,Product A,2023-01-18,Retailer 2,Telephone,Dimension C,City C,State Y,Region 3,Hierarchy Placeholder,manual adjustment
+117,1560.09,Product C,2023-05-19,Retailer 1,In-Store,Dimension A,City B,State Y,Region 3,Hierarchy Placeholder,seasonality
+569,2384.98,Product A,2023-02-06,Retailer 3,In-Store,Dimension A,City A,State Z,Region 3,Hierarchy Placeholder,manual adjustment
+319,1777.15,Product A,2022-11-12,Retailer 3,Online,Dimension B,City A,State Z,Region 1,Hierarchy Placeholder,manual adjustment
+336,1792.46,Product B,2023-08-03,Retailer 2,Online,Dimension B,City B,State X,Region 2,Hierarchy Placeholder,seasonality
+410,2535.48,Product C,2023-03-24,Retailer 1,In-Store,Dimension C,City B,State Y,Region 2,Hierarchy Placeholder,seasonality
+922,3725.59,Product B,2023-02-24,Retailer 2,Online,Dimension C,City A,State Y,Region 3,Hierarchy Placeholder,seasonality
+273,3915.98,Product A,2023-10-20,Retailer 3,Telephone,Dimension B,City A,State Y,Region 3,Hierarchy Placeholder,seasonality
+46,1222.25,Product B,2022-11-26,Retailer 1,Telephone,Dimension C,City C,State X,Region 1,Hierarchy Placeholder,seasonality
